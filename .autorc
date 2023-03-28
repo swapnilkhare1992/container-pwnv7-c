@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "swapnilkhare1992",
+  "repo": "container-pwnv7-c",
+  "name": "swapnilkhare1992",
+}
